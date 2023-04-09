@@ -52,9 +52,10 @@ Given below are my contributions to the project.
   `Add/Edit/Delete an email` components in the `Features` section.
 
 #### Contributions to the DG:
-- Added implementation details for the mark/unmark command.
-- Added implementation details for the delete command.
-- Created Sequence Diagrams using Plant UML for delete, mark, unmark commands.
+- Added implementation details for the `mark/unmark`, `delete`, `edit email`, `edit priority`, `reset` and `help` 
+  commands.
+- Created Sequence Diagrams using Plant UML for `mark/unmark`, `delete`, `edit email`, `edit priority`, `reset` and 
+  `help` commands.
 
 #### Contributions to team-based tasks:
 - Contributed to the planning of the product by coming up with features to implement.
